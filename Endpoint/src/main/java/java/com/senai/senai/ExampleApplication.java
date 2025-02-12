@@ -1,4 +1,4 @@
-package com.example.ex1;
+package com.senai.senai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
